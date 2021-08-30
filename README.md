@@ -1,4 +1,4 @@
-<h1 align="center">Holla!! 👋, I'm Amatulla Bohara</h1>
+<h1 align="center">Hola!! 👋, I'm Amatulla Bohara</h1>
 <h3 align="center">A Passionate Girl, Trying Out Different Stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amatulla-bohara&label=Profile%20views&color=0e75b6&style=flat" alt="amatulla-bohara" /> </p>
