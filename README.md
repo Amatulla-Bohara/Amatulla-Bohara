@@ -27,14 +27,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amatulla-bohara" alt="amatulla-bohara" /></a> </p>
 </div>
 <br>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatulla-bohara&show_icons=true&locale=en&layout=compact" alt="amatulla-bohara" /></p>
-</div>
-<br>
 <br>
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amatulla-bohara&show_icons=true&locale=en" alt="amatulla-bohara" /></p>
 </div>
+<br>
+<br>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatulla-bohara&show_icons=true&locale=en&layout=compact" alt="amatulla-bohara" /></p>
+</div>
+<br>
 <br>
 <div>
 <h3 align="left">Connect with me:</h3>
