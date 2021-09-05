@@ -37,7 +37,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatulla-bohara&show_icons=true&locale=en&layout=compact" alt="amatulla-bohara" /></p>
 </div>
 <br>
-<br>
+
+  <br>
+
+<div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amatulla-bohara&" alt="amatulla-bohara" /></p>
+  </div>
+  <br>
+  <br>
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,9 +58,3 @@
 <a href="https://www.hackerearth.com/@amatullabohara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amatullabohara" height="30" width="40" /></a>
 </p>
   </div>
-  <br>
-
-<div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amatulla-bohara&" alt="amatulla-bohara" /></p>
-  </div>
-  <br>
