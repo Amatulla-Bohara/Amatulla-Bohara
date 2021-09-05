@@ -31,6 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatulla-bohara&show_icons=true&locale=en&layout=compact" alt="amatulla-bohara" /></p>
 </div>
 <br>
+<br>
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amatulla-bohara&show_icons=true&locale=en" alt="amatulla-bohara" /></p>
 </div>
