@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **boharaamatulla@gmail.com**
 
-
+<p align="right"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
 <br>
 <div>
 <h3 align="left">Languages and Tools:</h3>
