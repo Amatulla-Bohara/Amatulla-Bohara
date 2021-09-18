@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amatulla-Bohara](https://github.com/Amatulla-Bohara)
 
-- 📝 I regularly write articles on [https://amatullabohara.blogspot.com/2021/05/trending-technologies.html](https://amatullabohara.blogspot.com/2021/05/trending-technologies.html)
+- 📝 I regularly write articles on [https://amatullabohara.blogspot.com/2021/05/trending-technologies.html](shorturl.at/xKY06)
 
 - 📫 How to reach me **boharaamatulla@gmail.com**
 
-<p align="right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="400"></p>
+<p align="right"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="350"></p>
 <br>
 <div>
 <h3 align="left">Languages and Tools:</h3>
