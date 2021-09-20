@@ -6,7 +6,7 @@
 
 <h1 align="center"  >Hola!! 👋, I'm Amatulla Bohara</h1>
 
-[![Linkedin: Amatulla Bohara](https://img.shields.io/badge/-Amatulla%20Bohara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//amatulla-bohara-256406203/](https://www.linkedin.com/in/amatulla-bohara-256406203/)
+[![Linkedin: Amatulla Bohara](https://img.shields.io/badge/-Amatulla Bohara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//amatulla-bohara-256406203/](https://www.linkedin.com/in/amatulla-bohara-256406203/)
 [![GitHub Amatulla Bohara](https://img.shields.io/github/followers/amatulla-bohara?label=follow&style=social)](https://github.com/Amatulla-Bohara)
 
 
@@ -42,10 +42,9 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amatulla-bohara&show_icons=true&locale=en" alt="amatulla-bohara" >
 
-
-✨Let's Connect ✨
-
+<hr>
 <p align="center">
+  ✨Let's Connect ✨
   <br/>
   <a href="https://www.linkedin.com/in/amatulla-bohara-256406203//">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
