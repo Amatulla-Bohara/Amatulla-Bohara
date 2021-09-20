@@ -66,5 +66,5 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   </a>
    
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-   
+   <br>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amatulla-Bohara&show_icons=true&locale=en&layout=compact" alt="Amatulla-Bohara" />
