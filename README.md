@@ -42,7 +42,7 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amatulla-bohara&show_icons=true&locale=en" alt="amatulla-bohara" >
 
-<hr>
+<br>
 
 <h1 align="center">
  ✨Let's Connect ✨
@@ -53,7 +53,7 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:boharaamatulla@gmail.com">
+  <a href="https://github.com/Amatulla-Bohara">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
@@ -64,11 +64,7 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   <a href="https://twitter.com/AmatullaBohara">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
-    <a href="boharaamatulla@gmail.com">
-  <img src="  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-     <p>
+   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-    </p>
-    <br>
+   
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amatulla-Bohara&show_icons=true&locale=en&layout=compact" alt="Amatulla-Bohara" />
