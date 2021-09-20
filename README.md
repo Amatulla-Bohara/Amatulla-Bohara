@@ -11,6 +11,7 @@
 
 
 <img align = "right" src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px">
+
 I am sophomore, keen to learn new technologies, developing problem solving skills and exploring Web Development.
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 - 🌱 I’m currently learning **Web Development**
@@ -53,11 +54,11 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://github.com/Amatulla-Bohara">
+  <a href="mailto:boharaamatulla@gmail.com">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
-
+<br>
   <a href="https://www.instagram.com/amatulla.bohara/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
@@ -65,6 +66,8 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   <a href="https://twitter.com/AmatullaBohara">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
+    <a href="mailto
+  <img src="  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <br>
   <hr>
   <br>
