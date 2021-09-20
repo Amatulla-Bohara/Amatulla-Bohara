@@ -2,19 +2,19 @@
 
 <h2 align="center">A Passionate Girl, Trying Out Different Stuff.</h2>
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "500px" height="300px"> </p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "700px" height="450px"> </p>
 
 <h1 align="center"  >Hola!! 👋, I'm Amatulla Bohara</h1>
-<hr>
 
+
+<img align = "right" src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px">
 
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **basic Web Development projects.**
-- 👨‍💻 All of my projects are available at [https://github.com/Amatulla-Bohara](https://github.com/Amatulla-Bohara)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Amatulla-Bohara)
 - 📫 How to reach me [Gmail](mailto:boharaamatulla@gmail.com) [Linkedin](https://www.linkedin.com/in/amatulla-bohara-256406203/)
 
-<img align = "right" src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px">
 
 
 <br>
