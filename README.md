@@ -8,14 +8,13 @@
 <hr>
 
 
-<div>
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **basic Web Development projects.**
 - 👨‍💻 All of my projects are available at [https://github.com/Amatulla-Bohara](https://github.com/Amatulla-Bohara)
 - 📫 How to reach me [Gmail](mailto:boharaamatulla@gmail.com) [Linkedin](https://www.linkedin.com/in/amatulla-bohara-256406203/)
 
-<img align = "right" src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px"></div>
+<img align = "right" src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px">
 
 
 <br>
