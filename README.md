@@ -6,7 +6,7 @@
 
 <h1 align="center"  >Hola!! 👋, I'm Amatulla Bohara</h1>
 
-[![Linkedin: Amatulla Bohara](https://img.shields.io/badge/-AmatullaBohara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//amatulla-bohara-256406203/](https://www.linkedin.com/in/amatulla-bohara-256406203/)
+[![Linkedin: Amatulla Bohara](https://img.shields.io/badge/-Amatulla%20Bohara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//amatulla-bohara-256406203/](https://www.linkedin.com/in/amatulla-bohara-256406203/)
 [![GitHub Amatulla Bohara](https://img.shields.io/github/followers/amatulla-bohara?label=follow&style=social)](https://github.com/Amatulla-Bohara)
 
 
@@ -44,9 +44,11 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
 
 <hr>
 <br>
-<p align="center">
-  <h2>✨Let's Connect ✨</h2>
+<h1 align="center">
+ ✨Let's Connect ✨
+  <h1>
   <br/>
+  <p align="center">
   <a href="https://www.linkedin.com/in/amatulla-bohara-256406203//">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
@@ -56,8 +58,6 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   </a>
 
 
-  <br/>
-
   <a href="https://www.instagram.com/amatulla.bohara/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
@@ -65,5 +65,7 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   <a href="https://twitter.com/AmatullaBohara">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
   </a>
-  
+  <br>
+  <hr>
+  <br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
