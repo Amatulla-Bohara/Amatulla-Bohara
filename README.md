@@ -1,13 +1,18 @@
-<h1 align="center">Hola!! 👋, I'm Amatulla Bohara</h1>
-<h3 align="center">A Passionate Girl, Trying Out Different Stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amatulla-bohara&label=Profile%20views&color=0e75b6&style=flat" alt="amatulla-bohara" /> </p>
+<h2 align="center">A Passionate Girl, Trying Out Different Stuff.</h2>
 
+<p align="center"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "500px" height="300px"> </p>
+<h1 align="center" font-family: 'Rubik', sans-serif >Hola!! 👋, I'm Amatulla Bohara</h1>
+<hr>
+<p align="right"></p><img src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px"></p>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,500;0,700;1,500&display=swap" rel="stylesheet">
 
-- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working on **Data Structure and Algorithm**
 
-- 🌱 I’m currently learning **NodeJs.**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **basic Web Development projects.**
 
