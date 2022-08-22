@@ -2,7 +2,7 @@
 
 <h2 align="center" >A Passionate Girl, Trying Out Different Stuff.</h2>
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "700px" height="450px"> </p>
+<p align="center"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width = "600px" height="400px"> </p>
 
 <h1 align="center"  >Hola!! 👋, I'm Amatulla Bohara</h1>
 <img align = "right" src = "https://media3.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47cxa0uxnvra86tr0m0yilezeejjgdryr5ejg1s9sx&rid=giphy.gif&ct=g" width="250px">
