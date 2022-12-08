@@ -36,14 +36,7 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-/*
-<br>
-<h1 align="left"> 📊 &nbsp;Git Stats</h1>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amatulla-bohara&show_icons=true&locale=en" alt="amatulla-bohara" >
 
-<br>
-*/
 
 <h1 align="center">
  ✨Let's Connect ✨
@@ -67,5 +60,4 @@ I am sophomore, keen to learn new technologies, developing problem solving skill
   </a>
    
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say Hi, I'll be happy to meet you more! :)</em>
-   <br>
- /*<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amatulla-Bohara&show_icons=true&locale=en&layout=compact" alt="Amatulla-Bohara" />*/
+  
